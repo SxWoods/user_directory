@@ -1,0 +1,11 @@
+header {
+    height: 30vh;
+    background-color: #450599;
+    opacity: 0.5;
+  }
+  
+  header h1 {
+    color: antiquewhite;
+    opacity: 0.75;
+    font-weight: bolder;
+  }
